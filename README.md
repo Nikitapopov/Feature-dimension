@@ -1,1 +1,1 @@
-# feature-dimension
+# Диплом и конференции по теме feature dimension
