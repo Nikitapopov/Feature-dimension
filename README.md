@@ -1,1 +1,1 @@
-# Диплом и конференции по теме feature dimension
+# Диплом по теме feature dimension reduction
